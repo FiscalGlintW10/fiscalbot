@@ -8,6 +8,8 @@ You are allowed to re-distribute the project with consent from FiscalGlintW10#62
 
 Please be aware that this bot does NOT support application commands (or / commands). It supports text commands using a prefix (pre-set one is !, you can change it). 
 
+Also note that some commands/outputs may contain IDs of my server/channels, and my name (Fiscal, Fiscal's Server, etc.). Ensure you replace those with your preferred values when creating your own bot.
+
 
 <h2>Steps to use the bot:</h2>
 
